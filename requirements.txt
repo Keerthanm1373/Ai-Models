@@ -1,15 +1,18 @@
-torch
-numpy
-google-generativeai
-transformers
-scikit-learn
-python-dotenv
+# Core libraries
+flask==2.0.1
+flask-cors==3.0.10
 
-flask
-flask-cors
+# Application server for production
+gunicorn==20.1.0
+
+# Machine learning & data processing
 torch
-transformers
 numpy
 scikit-learn
+
+# AI and NLP packages
 google-generativeai
+transformers
+
+# Environment variables management
 python-dotenv
