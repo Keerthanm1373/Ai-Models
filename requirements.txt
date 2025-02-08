@@ -16,3 +16,7 @@ transformers
 
 # Environment variables management
 python-dotenv
+
+# Pin Werkzeug to a version that supports `url_quote`
+Werkzeug==2.0.3
+keras==3.5.0
