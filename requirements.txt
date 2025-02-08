@@ -1,0 +1,15 @@
+torch
+numpy
+google-generativeai
+transformers
+scikit-learn
+python-dotenv
+
+flask
+flask-cors
+torch
+transformers
+numpy
+scikit-learn
+google-generativeai
+python-dotenv
